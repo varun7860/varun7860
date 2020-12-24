@@ -47,8 +47,8 @@ I am Varun walimbe, a passionate Roboticist and Electronics Engineer from India 
 <img src="https://p1.hiclipart.com/preview/756/432/905/simply-styled-icon-set-731-icons-free-blender-round-white-blue-and-orange-logo-png-clipart.jpg" width="30" height="30"/>&nbsp;&nbsp;
 
 #### Familiar Concepts
-- [x] Machine Learning
-- [x] Natural Language Processing
+- - [x] Machine Learning
+- - [x] Natural Language Processing
 - [x] Deep Learning
 - [x] Robotics
 - [x] Proportional Integral Derivative (PID)
