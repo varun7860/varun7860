@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 [![alt text][1.1]][1]
-
 [![alt text][2.1]][2]
-
 [![alt text][3.1]][3]
-
 [![alt text][4.1]][4]
 
 [1.1]: https://github.com/varun7860/varun7860/blob/main/assets/linkedin.png
+
 [2.1]: https://github.com/varun7860/varun7860/blob/main/assets/Hackster.png
+
 [3.1]: https://github.com/varun7860/varun7860/blob/main/assets/instagram.png
+
 [4.1]: https://github.com/varun7860/varun7860/blob/main/assets/youtube.png
 
 [1]: https://www.linkedin.com/in/varun-walimbe-992929183/
