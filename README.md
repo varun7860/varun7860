@@ -9,7 +9,7 @@ I am Varun walimbe, a passionate Roboticist from India    <img align="right" wid
  - 👯 I’m looking to collaborate on 
  - 🤔 I’m looking for help with ...
  - 💬 Ask me anything about Robotics and I will be happy to help :)
- - 📫 You can reach me @walimbe34@gmail.com or my username @varun7860
+ - 📫 You can reach me @walimbe34@gmail.com or my username @varun7860;
  - ⚡ Fun fact: Robots only do what they are programmed.
 
 **Programming Languages**
