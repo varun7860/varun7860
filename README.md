@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg" width="40" height="40"/>
 
 I am Varun walimbe, a passionate Roboticist from India    <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif">                        
 
