@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Varun walimbe, a passionate Roboticist from India           <img src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif" width="40" height="40"/>
+I am Varun walimbe, a passionate Roboticist from India           <img src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif" width="100" height="100"/>
 
 **Here are some personal things about me** :                                                 
 
