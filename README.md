@@ -10,5 +10,7 @@ I am Varun walimbe, a passionate Roboticist from India
  - 🤔 I’m looking for help with ...
  - 💬 Ask me anything about Robotics and I will be happy to help :)
  - 📫 You can reach me by @walimbe34@gmail.com or my username @varun7860
- - ⚡ Fun fact: Robots only do what they are programmed
+ - ⚡ Fun fact: Robots only do what they are programmed.
 
+**Programming Languages**
+[!https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png][1]
