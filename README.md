@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![alt text][1.1]][1]&nbsp;&nbsp;&nbsp;
-[![alt text][2.1]][2]&nbsp;&nbsp;&nbsp; 
-[![alt text][3.1]][3]&nbsp;&nbsp;&nbsp;
-[![alt text][4.1]][4]&nbsp;&nbsp;&nbsp;
+[![alt text][1.1]][1]&nbsp;&nbsp;&nbsp;&nbsp;
+[![alt text][2.1]][2]&nbsp;&nbsp;&nbsp;&nbsp; 
+[![alt text][3.1]][3]&nbsp;&nbsp;&nbsp;&nbsp;
+[![alt text][4.1]][4]&nbsp;&nbsp;&nbsp;&nbsp;
 
 [1.1]: https://github.com/varun7860/varun7860/blob/main/assets/linkedin.png
 [2.1]: https://github.com/varun7860/varun7860/blob/main/assets/Hackster.png
