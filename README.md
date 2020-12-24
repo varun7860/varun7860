@@ -13,4 +13,4 @@ I am Varun walimbe, a passionate Roboticist from India
  - ⚡ Fun fact: Robots only do what they are programmed.
 
 **Programming Languages**
-[![github](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)][1][![github](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png)][2]
+[![github](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)][![github](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png)]
