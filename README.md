@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 [![alt text][1.1]][1]
-
-
-
-
 [![alt text][2.1]][2] 
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
@@ -28,7 +24,7 @@ I am Varun walimbe, a passionate Roboticist from India    <img align="right" wid
  - 💬 Ask me anything about Robotics and I will be happy to help :blush:
  - 📫 You can reach me by walimbe34@gmail.com;
  - ⚡ Fun fact: Robots only do what they are programmed.
-
+----
 **Programming Languages**
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="40" height="40"/>   <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" width="40" height="40"/>  <img src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png" width="40" height="40"/>
