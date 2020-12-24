@@ -1,8 +1,5 @@
 ### Hi there 👋
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/varun-walimbe"
+
 
 I am Varun walimbe, a passionate Roboticist from India    <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif">                        
 
@@ -10,7 +7,7 @@ I am Varun walimbe, a passionate Roboticist from India    <img align="right" wid
 
  - 🔭 I’m currently working on Some cool Robot :)
  - 🌱 I’m currently learning ROS
- - 💬 Ask me anything about Robotics and I will be happy to help :)
+ - 💬 Ask me anything about Robotics and I will be happy to help :+1:
  - 📫 You can reach me @walimbe34@gmail.com or my username @varun7860;
  - ⚡ Fun fact: Robots only do what they are programmed.
 
