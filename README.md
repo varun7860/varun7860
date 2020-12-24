@@ -7,10 +7,14 @@
 [![alt text][5.1]][5]
 
 [1.1]: https://github.com/varun7860/varun7860/blob/main/assets/linkedin.png
-[2.1]: https://github.com/varun7860/varun7860/blob/main/assets/spotify.png
+[2.1]: https://github.com/varun7860/varun7860/blob/main/assets/Hackster.png
 [3.1]: https://github.com/varun7860/varun7860/blob/main/assets/instagram.png
-[4.1]: https://github.com/varun7860/varun7860/blob/main/assets/twitter.png
-[5.1]: https://github.com/varun7860/varun7860/blob/main/assets/youtube.png
+[4.1]: https://github.com/varun7860/varun7860/blob/main/assets/youtube.png
+
+[1]: https://www.linkedin.com/in/varun-walimbe-992929183/
+[2]: https://www.hackster.io/Varun2905
+[3]: https://www.instagram.com/__.varunnnn.___/
+[4]: https://www.youtube.com/channel/UC1e7ZC7siSVym-dTzQ8vjbg
 
 I am Varun walimbe, a passionate Roboticist from India    <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif">                        
 
