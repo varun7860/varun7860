@@ -37,4 +37,4 @@ I am Varun walimbe, a passionate Roboticist and Electronics Engineer from India 
 
 **Familiar Robot Softwares**
 
-[x] ROS <img src="https://answers.ros.org/upfiles/14554624266871161.png" width="30" height="30"/>
+<img src="https://answers.ros.org/upfiles/14554624266871161.png" width="30" height="30"/>
