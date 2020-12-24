@@ -35,7 +35,7 @@ I am Varun walimbe, a passionate Roboticist and Electronics Engineer from India 
 <img src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png" width="30" height="30"/>
 
 
-#### **Familiar Softwares**
+#### Familiar Softwares
 
 <img src="https://answers.ros.org/upfiles/14554624266871161.png" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://lh3.googleusercontent.com/proxy/5juFNIWXcxbMOZFPnlT9yTvK3vMfcTKYVtcz10U9EnFWH3SvPd2gO_1Ldy25MKf30MH-vrIQCdClV49wWMobVKp-QahGFDxrUxxBIgwIFjzuqm9wlcdlfJdw4xsgkA7-yDO5B_6Miu3D2GvFRXYnICxEs4LfqyJ-R5M" width="30" height="30"/>&nbsp;&nbsp;
@@ -45,3 +45,11 @@ I am Varun walimbe, a passionate Roboticist and Electronics Engineer from India 
 <img src="https://download.logo.wine/logo/Keil_(company)/Keil_(company)-Logo.wine.png" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://www.clipartkey.com/mpngs/m/224-2242895_gazebo-simulator-icon.png" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://p1.hiclipart.com/preview/756/432/905/simply-styled-icon-set-731-icons-free-blender-round-white-blue-and-orange-logo-png-clipart.jpg" width="30" height="30"/>&nbsp;&nbsp;
+
+#### Familiar Concepts
+- [x] Machine Learning
+- [x] Natural Language Processing
+- [x] Deep Learning
+- [x] Robotics
+- [x] Proportional Integral Derivative (PID)
+- [x] Image Processing
