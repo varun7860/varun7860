@@ -21,7 +21,7 @@ I am Varun walimbe, a passionate Roboticist from India    <img align="right" wid
 
  - 🔭 I’m currently working on Some cool Robot :bowtie:
  - 🌱 I’m currently learning Robotic Operating System (ROS)
- - 💬 Ask me anything about Robotics and I will be happy to help :blush:
+ - 💬 Ask me anything about Robotics and I will be happy to help:blush:
  - 📫 You can reach me by walimbe34@gmail.com;
  - ⚡ Fun fact: Robots only do what they are programmed.
 
