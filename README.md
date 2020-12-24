@@ -49,9 +49,9 @@ I am Varun walimbe, a passionate Roboticist and Electronics Engineer from India 
 #### Familiar Concepts
 - - [x] Machine Learning
 - - [x] Natural Language Processing
-- [x] Deep Learning
-- [x] Robotics
-- [x] Proportional Integral Derivative (PID)
-- [x] Image Processing
-- [x] Kinematics
-- [x] Path Planning
+- - [x] Deep Learning
+- - [x] Robotics
+- - [x] Proportional Integral Derivative (PID)
+- - [x] Image Processing
+- - [x] Kinematics
+- - [x] Path Planning
