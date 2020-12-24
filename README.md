@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**varun7860/varun7860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am Varun walimbe, a passionate Roboticist from India
 
 **Here are some personal things about me**:
