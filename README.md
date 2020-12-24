@@ -24,6 +24,7 @@ I am Varun walimbe, a passionate Roboticist from India    <img align="right" wid
  - 💬 Ask me anything about Robotics and I will be happy to help:blush:
  - 📫 You can reach me by walimbe34@gmail.com;
  - ⚡ Fun fact: Robots only do what they are programmed.
+ - 📫 Here is the link for my resume
 
 **Programming Languages**
 
