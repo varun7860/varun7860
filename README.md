@@ -1,5 +1,16 @@
 ### Hi there 👋
-<img src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg" width="40" height="40"/>
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+
+[1.1]: https://github.com/varun7860/varun7860/blob/main/assets/linkedin.png
+[2.1]: https://github.com/varun7860/varun7860/blob/main/assets/spotify.png
+[3.1]: https://github.com/varun7860/varun7860/blob/main/assets/instagram.png
+[4.1]: https://github.com/varun7860/varun7860/blob/main/assets/twitter.png
+[5.1]: https://github.com/varun7860/varun7860/blob/main/assets/youtube.png
 
 I am Varun walimbe, a passionate Roboticist from India    <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif">                        
 
