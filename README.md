@@ -43,3 +43,4 @@ I am Varun walimbe, a passionate Roboticist and Electronics Engineer from India 
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/142795439/original/c9314290b9e3e079bc6e75254d8b1cac91137bf6/layout-and-design-a-pcb-in-autodesk-eagle.png" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://banner2.cleanpng.com/20190429/tww/kisspng-autocad-computer-icons-autodesk-logo-adobe-illustr-5cc69fcfdf1481.8664286615565209119137.jpg" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://download.logo.wine/logo/Keil_(company)/Keil_(company)-Logo.wine.png" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://www.clipartkey.com/mpngs/m/224-2242895_gazebo-simulator-icon.png" width="30" height="30"/>&nbsp;&nbsp;
