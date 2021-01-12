@@ -65,7 +65,7 @@ If you like my projects buy me a coffee:)
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" height="60"/>
 
 
-[![alt text][1.1]][1]
+[![alt text][10.1]][10]
 
-[1.1] : https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png
-[1] : https://www.buymeacoffee.com/VarunWalimbe
+[10.1] : https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png
+[10] : https://www.buymeacoffee.com/VarunWalimbe
