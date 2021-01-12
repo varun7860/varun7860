@@ -59,12 +59,12 @@ I am Varun walimbe, a passionate Roboticist and Electronics Engineer from India 
 
 
 
-If you like my projects buy me a coffee:)
+If you like my projects buy me a coffee :relaxed:
 
 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" height="60"/>
 
 [![alt text][10.1]][10]
 
-[10.1]: <img src= https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png width= 200 height= 60/>
+[10.1]: 
 [10]: https://www.buymeacoffee.com/VarunWalimbe
