@@ -15,7 +15,7 @@
 [3]: https://www.instagram.com/__.varunnnn.___/
 [4]: https://www.youtube.com/channel/UC1e7ZC7siSVym-dTzQ8vjbg
 
-I am Varun walimbe, a passionate Roboticist and Electronics Engineer from India    <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif">                        
+I am Varun walimbe, a passionate Roboticist and Electronics Engineer.   <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif">                        
 
 **Here are some personal things about me** :                                              
 
