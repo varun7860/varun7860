@@ -24,7 +24,7 @@ I am Varun walimbe, a passionate Roboticist and Electronics Engineer.   <img ali
  - 💬 Ask me anything about Robotics and I will be happy to help
  - 📫 You can reach me by walimbe34@gmail.com;
  - ⚡ Fun fact: Robots only do what they are programmed.
- - 📫 Here is the link for my [Resume](https://drive.google.com/file/d/1P0cG0BRcVPPl3EwbWXMLxJsNyMaEd-iH/view?usp=sharing)
+ - 📫 Here is the link for my [Resume](https://drive.google.com/file/d/1dofgH7AHDqX7pJjnNGEN-drQZeU4wJ_b/view?usp=sharing)
  
 
 #### Programming Languages
