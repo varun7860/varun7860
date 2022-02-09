@@ -46,17 +46,14 @@ I am Varun walimbe, a passionate Roboticist and Electronics Engineer.   <img ali
 <img src="https://www.clipartkey.com/mpngs/m/224-2242895_gazebo-simulator-icon.png" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://p1.hiclipart.com/preview/756/432/905/simply-styled-icon-set-731-icons-free-blender-round-white-blue-and-orange-logo-png-clipart.jpg" width="30" height="30"/>&nbsp;&nbsp;
 
-#### Familiar Concepts
-- - [x] Machine Learning
-- - [x] Natural Language Processing
-- - [x] Deep Learning
-- - [x] Robotics
-- - [x] Proportional Integral Derivative (PID)
-- - [x] Image Processing
-- - [x] Kinematics
-- - [x] Path Planning
-
-
+#### Competencies
+- - [x] Languages: Embedded C, C++,Python
+- - [x] Protocols: CAN, SPI, UART, I2C
+- - [x] Tools and libraries: Numpy, p5.js, Keras (TensorFlow), OpenCV, flask, PyCUDA, OpenGL, Simulink, git,Matlab
+- - [x] Mechanical : Fusion360, AutoCAD,Blender
+- - [x] Robotics : ROS, PCL, Gazebo, Rviz, bullet,SLAM
+- - [x] Platforms : Linux, Arduino, Raspberry pi
+- - [x] Embedded Systems : Buildroot, Yocto, Linux character drivers
 
 
 If you like my projects buy me a coffee :relaxed:
