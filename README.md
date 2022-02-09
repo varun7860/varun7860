@@ -15,7 +15,11 @@
 [3]: https://www.instagram.com/__.varunnnn.___/
 [4]: https://www.youtube.com/channel/UC1e7ZC7siSVym-dTzQ8vjbg
 
-I am Varun walimbe, a passionate Roboticist and Electronics Engineer.   <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif">                        
+I am an eager learner who loves to solve problems. Whether the problem is simple or difficult I often always try and make sure that it is solved. I have a bachelor's in Electronics and Telecommunication Engineering from S.I.E.S Graduate School Of Technology(Navi Mumbai) and throughout my career I have been driven by my intellectual curiosity to find answers to the most obfuscating questions and problems.
+
+I have a keen and profound interest in Robotics. I always been always driven by the thoughts of different types of Robots which I find fascinating and interesting. I like to innovate and make different types of Robots and systems that thrive to make human lives easier. Throughout my 4 years of engineering I have made Tons of Projects and Gadgets with my innovating skill and deep knowledge in subject.
+
+My this keen interest also drives me towards becoming lifelong learner and versatile in building different projects. I am a scrupulous person who tends to work unless its completed. I make decisions by logic and not by emotions :)   <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif">                        
 
 **Here are some personal things about me** :                                              
 
