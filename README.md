@@ -55,6 +55,14 @@ I am Varun walimbe, a passionate Roboticist and Electronics Engineer.   <img ali
 - - [x] Platforms : Linux, Arduino, Raspberry pi
 - - [x] Embedded Systems : Buildroot, Yocto, Linux character drivers
 
+#### Soft Skills
+- - [x] Communication Skills
+- - [x] Time Management
+- - [x] Multi-Tasking
+- - [x] Eager Learning
+- - [x] Work Ethic
+- - [x] Independent
+
 
 If you like my projects buy me a coffee :relaxed:
 
