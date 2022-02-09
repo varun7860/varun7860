@@ -27,25 +27,6 @@ I am Varun walimbe, a passionate Roboticist and Electronics Engineer.   <img ali
  - 📫 Here is the link for my [Resume](https://drive.google.com/file/d/1dofgH7AHDqX7pJjnNGEN-drQZeU4wJ_b/view?usp=sharing)
  
 
-#### Programming Languages
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="30"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png" width="30" height="30"/>
-
-
-#### Familiar Softwares
-
-<img src="https://answers.ros.org/upfiles/14554624266871161.png" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://lh3.googleusercontent.com/proxy/5juFNIWXcxbMOZFPnlT9yTvK3vMfcTKYVtcz10U9EnFWH3SvPd2gO_1Ldy25MKf30MH-vrIQCdClV49wWMobVKp-QahGFDxrUxxBIgwIFjzuqm9wlcdlfJdw4xsgkA7-yDO5B_6Miu3D2GvFRXYnICxEs4LfqyJ-R5M" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://e1.pngegg.com/pngimages/912/119/png-clipart-simply-styled-icon-set-731-icons-free-fusion-360-orange-logo-illustration-thumbnail.png" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/142795439/original/c9314290b9e3e079bc6e75254d8b1cac91137bf6/layout-and-design-a-pcb-in-autodesk-eagle.png" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://banner2.cleanpng.com/20190429/tww/kisspng-autocad-computer-icons-autodesk-logo-adobe-illustr-5cc69fcfdf1481.8664286615565209119137.jpg" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://download.logo.wine/logo/Keil_(company)/Keil_(company)-Logo.wine.png" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://www.clipartkey.com/mpngs/m/224-2242895_gazebo-simulator-icon.png" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://p1.hiclipart.com/preview/756/432/905/simply-styled-icon-set-731-icons-free-blender-round-white-blue-and-orange-logo-png-clipart.jpg" width="30" height="30"/>&nbsp;&nbsp;
-
 #### Competencies
 - - [x] Languages: Embedded C, C++,Python
 - - [x] Protocols: CAN, SPI, UART, I2C
