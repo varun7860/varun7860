@@ -24,7 +24,7 @@ Hey I am Varun Walimbe - A Vibrant eager learner looking for various opportuniti
  - 💬 Ask me anything about Robotics and I will be happy to help
  - 📫 You can reach me by walimbe34@gmail.com or vawalimbe@wpi.edu;
  - ⚡ Fun fact: Robots only do what they are programmed.
- - 📫 Here is the link for my [Resume](https://drive.google.com/file/d/1dofgH7AHDqX7pJjnNGEN-drQZeU4wJ_b/view?usp=sharing)
+ - 📫 Here is the link for my [Resume](https://drive.google.com/file/d/1Od7seC5si3hhQHpXVbvRGawzHQJ6joID/view?usp=sharing)
  
 
 #### Competencies
